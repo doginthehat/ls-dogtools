@@ -2,6 +2,13 @@
 
 Repository of small utilities for the Lemonstand platform.
 
+Installation instructions
+
+	1. Clone into modules/dogtools
+	
+	2. Make coffee
+
+
 ## Dumb Gateway Payment Type
 
 Dumb Gateway was never the smartest in class. Dumb Gateway goes nowhere and does as it feels.
