@@ -20,3 +20,10 @@ When Dumb Gateway is Happy, payment goes well. When Dumb Gateway is Sad, payment
 Sometimes Dumb Gateway is undecided.
 
 Dumb Gateway likes developers, but Dumb Gateway does not like to run on production servers.
+
+
+## Twig Debug Tools
+
+The module activates the debug mode for Twig and enables the [dump][twig.dump] function.
+
+[twig.dump]: http://twig.sensiolabs.org/doc/functions/dump.html
